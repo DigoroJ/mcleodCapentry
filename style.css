@@ -320,3 +320,19 @@ footer {
         font-size: 28px;
     }
 }
+
+.direct-contact {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.phone-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.phone-link:hover {
+    text-decoration: underline;
+}
